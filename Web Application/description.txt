@@ -1,0 +1,20 @@
+Program flow of Web Application:
+
+This application is designed mainly using HTML, CSS, JavaScirpt, PHP and MySQL for database operations.
+It broadly consists of 4 pages, they are:
+1.	login panel
+2.	Home Page
+3.	Check Traffic
+4.	Report Traffic Incidents
+
+
+==>How to use the Web Application?
+
+Initially, the user needs to enter his/her login credentials.  
+If the credentials are valid, then he will be taken to home page.
+Home page enables user either to report traffic incidents or to check current traffic status in a given location.  
+To check the traffic status, user needs to give the current location.  To report any traffic causing incidents, user just needs to visit report_traffic_incidents page. 
+User needs to give some details like his/her current location (especially where the incident  occured), a short description on the incident and vice versa so as to record it into database.
+Once the incident has been recorded, then all the neary by registered users will be notified about the incident helping them to take a better way.
+This application also gives traffic data which is not reported by the user and that data is computer generated( computer gets that data by analysing the images which comes form the CCTV cameras).
+
